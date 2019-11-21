@@ -19,3 +19,7 @@ Diese Domain sollte auf die IP Adresse unseres Servers lenken (95.216.160.112)
 
 ## HTML Tutorials ...
 https://www.w3schools.com/
+
+
+## Telegram 
+0049 151 67 83 38 69
