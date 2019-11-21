@@ -10,6 +10,8 @@ hetzner.de
 ## Framework für effiziente serverseitig Entwicklung
 https://docs.nestjs.com/
 
+## Framework für effiziente Frontend Entwicklung
+https://angular.io/guide/setup-local
 
 ## Unsere Domain
 http://wwi18dsa.de/ registriert per goneo.de
@@ -24,6 +26,8 @@ https://www.npmjs.com/
 
 ## NLP - Natural Language Processing
 https://www.npmjs.com/package/node-nlp
+
+
 
 ## Telegram 
 0049 151 67 83 38 69
