@@ -16,10 +16,14 @@ http://wwi18dsa.de/ registriert per goneo.de
 
 Diese Domain sollte auf die IP Adresse unseres Servers lenken (95.216.160.112)
 
-
 ## HTML Tutorials ...
 https://www.w3schools.com/
 
+## Open Source NPM Module
+https://www.npmjs.com/
+
+## NLP - Natural Language Processing
+https://www.npmjs.com/package/node-nlp
 
 ## Telegram 
 0049 151 67 83 38 69
