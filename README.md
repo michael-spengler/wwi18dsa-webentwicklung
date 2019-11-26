@@ -1,14 +1,21 @@
 ## Erste Vorlesung - Donnerstag 21.11.2019
 
-### Starting with TypeScript
-http://www.typescriptlang.org/
-https://lab.github.com/michael-spengler/starting-with-typescript
-
+### HTML Tutorials ...
+https://www.w3schools.com/
 
 ### Einen eigenen Server organisieren
 Unsere IP Adresse: 95.216.160.112
 Anbieter: Hetzner - Kosten ca. 3 Euro im Monat
 hetzner.de
+
+### Unsere Domain
+http://wwi18dsa.de/ registriert per goneo.de
+
+Diese Domain sollte auf die IP Adresse unseres Servers lenken (95.216.160.112)
+
+### Starting with TypeScript
+http://www.typescriptlang.org/  
+https://lab.github.com/michael-spengler/starting-with-typescript
 
 ### Framework für effiziente serverseitig Entwicklung
 https://docs.nestjs.com/
@@ -16,19 +23,12 @@ https://docs.nestjs.com/
 ### Framework für effiziente Frontend Entwicklung
 https://angular.io/guide/setup-local
 
-### Unsere Domain
-http://wwi18dsa.de/ registriert per goneo.de
-
-Diese Domain sollte auf die IP Adresse unseres Servers lenken (95.216.160.112)
-
-### HTML Tutorials ...
-https://www.w3schools.com/
-
 ### Open Source NPM Module
-https://www.npmjs.com/
+https://www.npmjs.com/ - ein Beispiel für ein Modul im Bereich **Natural Language Processing**: https://www.npmjs.com/package/node-nlp
 
-### NLP - Natural Language Processing
-https://www.npmjs.com/package/node-nlp
+### Unser Telegram Chatbot
+https://t.me/wwi18dsa_bot
+
 
 
 ## Zweite Vorlesung - Donnerstag 28.11.2019
