@@ -85,6 +85,8 @@ Wofür steht HTML?
 Wofür steht CSS?
 **Cascading Style Sheets**
 
+Was ist der Unterschied zwischen einem Instanzattribut und einem Klassenattribut?
+**Ein Instanzattribut stellt eine Eigenschaft eines konkreten Objektes (= einer konkreten Instanz) der Klasse dar. Ein Klassenattribut ist instanzübergreifend**
 
 Was ist der Unterschied zwischen einer Library und einem Framework?  
 **Bei einer library rufen wir deren code. Bei einem Framework ruft dieses unseren code.
