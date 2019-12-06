@@ -79,6 +79,13 @@ Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementier
 Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementierung von Backend Code?  
 **tbd :)**
 
+Wofür steht HTML?
+**Hypertext Markup Language**
+
+Wofür steht CSS?
+**Cascading Style Sheets**
+
+
 Was ist der Unterschied zwischen einer Library und einem Framework?  
 **Bei einer library rufen wir deren code. Bei einem Framework ruft dieses unseren code.
 
