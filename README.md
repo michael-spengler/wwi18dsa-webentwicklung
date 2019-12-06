@@ -45,6 +45,11 @@ https://t.me/wwi18dsa_bot
 
 6. Erstellung einer Q & A Plattform zwecks Gamification ähnlich dem https://www.xwords-generator.de/de mit TypeScript unter Verwendung von https://docs.nestjs.com/ für die Entwicklung des Backend Codes und https://angular.io für die Entwicklung des Client Codes.
 
+## Dritte Vorlesung - Donnerstag 05.12.2019
+Gruppenarbeit
+
+## Vierte Vorlesung - Donnerstag 06.12.2019
+Präsentationen der ersten Themen
 
 ## Q & A
 Wofür steht IDE in unserem Kontext?  
