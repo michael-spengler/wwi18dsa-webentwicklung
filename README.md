@@ -46,10 +46,17 @@ https://t.me/wwi18dsa_bot
 6. Erstellung einer Q & A Plattform zwecks Gamification ähnlich dem https://www.xwords-generator.de/de mit TypeScript unter Verwendung von https://docs.nestjs.com/ für die Entwicklung des Backend Codes und https://angular.io für die Entwicklung des Client Codes.
 
 ## Dritte Vorlesung - Donnerstag 05.12.2019
-Gruppenarbeit
+Gruppenarbeit - Themen & Details siehe Issues Tab
 
 ## Vierte Vorlesung - Donnerstag 06.12.2019
-Präsentationen der ersten Themen
+Präsentationen der ersten Themen - Details siehe Issues Tab
+
+## Fünfte Vorlesung - Donnerstag 12.12.2019
+Wiederholungen und Vertiefungen
+
+## Sechste Vorlesung - Donnerstag 19.12.2019
+Erstellung von Forks und Pull Requests
+
 
 ## Q & A
 Wofür steht IDE in unserem Kontext?  
@@ -93,6 +100,10 @@ Was ist der Unterschied zwischen einer Library und einem Framework?
 
 Mit welcher IDE können Sie relativ leicht eine eigene Währung für die Ethereum Blockchain entwickeln?  
 **Z.B. mit https://remix.ethereum.org/**
+
+Was ist ein Fork in unserem Kontext?
+
+Was ist ein Pull Request in unserem Kontext?
 
 
 ## Telegram 
