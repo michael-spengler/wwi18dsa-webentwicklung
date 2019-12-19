@@ -105,6 +105,13 @@ Was ist ein Fork in unserem Kontext?
 
 Was ist ein Pull Request in unserem Kontext?
 
+Beschreiben Sie den typischen Prozess um in einem Open Source Projekt beizutragen.
+1. Fork the repository
+2. git clone the newly created repository 
+3. Open the project in VS Code & make your changes & git add . && git commit -m "meine Änderung" && git push
+4. Create Pull Request and wait until the owner merges it
+
+
 
 ## Telegram 
 0049 151 67 83 38 69
