@@ -114,5 +114,5 @@ Beschreiben Sie den typischen Prozess um in einem Open Source Projekt beizutrage
 
 
 ## Telegram 
-0049 151 67 83 38 69 
+0049 151 67 83 38 69  
 Gruppe: https://t.me/joinchat/CocyExZuALrYrRJOEc6E-Q
